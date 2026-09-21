@@ -1,0 +1,3 @@
+# PDF 为构建产物，不入库（用 theseus-book-zh/build_pdf.py 重新生成）
+theseus-book-zh/*.pdf
+__pycache__/
